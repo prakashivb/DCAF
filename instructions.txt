@@ -1,0 +1,6 @@
+git clone http://gitlab.cisco.com/mimir/mimir-definitions.git to get the project
+edit your files
+then in the root dir
+"git add -A ."
+git commit -m “type a commit message”
+then do "git push origin master"
